@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./testaceamicrosco00fich_0201.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 553 329 734 399">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 553 329 734 399">
+     <span class='ocr_line' id='line_1_1' title="bbox 553 329 734 363; baseline 0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 553 330 665 363; x_wconf 64' lang='lat' dir='ltr'>Leoooffi</span> <span class='ocrx_word' id='word_1_2' title='bbox 675 329 734 350; x_wconf 59' lang='lat'>‘¹⁰⁰&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 575 364 724 399; baseline -0.027 0"><span class='ocrx_word' id='word_1_3' title='bbox 575 364 724 399; x_wconf 54' lang='lat'>,7704310</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2912 1048">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2912 1048">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2912 1048; baseline 0 -667"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1178 1048; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_5' title='bbox 2535 0 2912 381; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3818 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 3818 2912 4368">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 3818 2912 4368; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 4054 126 4368; x_wconf 95' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_7' title='bbox 2384 3818 2912 4368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
